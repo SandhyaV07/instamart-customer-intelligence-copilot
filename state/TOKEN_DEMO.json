@@ -1,0 +1,19 @@
+{
+  "scenario_id": "TOKEN_DEMO",
+  "user_message": "Please refund late order ORD-000002",
+  "steps": [
+    {
+      "tool": "get_order",
+      "args": {
+        "order_id": "ORD-000002"
+      },
+      "observation": {
+        "error": "NOT_FOUND",
+        "order_id": "ORD-000002"
+      }
+    }
+  ],
+  "tokens_used": 210,
+  "llm_calls": 2,
+  "order_id": "ORD-000002"
+}

@@ -1,0 +1,3 @@
+{"timestamp": "2026-11-03T17:54:20.287284+00:00", "tool": "issue_refund", "status": "REFUND", "order_id": "ORD-100048", "refund_inr": 128.25}
+{"timestamp": "2026-11-03T17:54:20.290700+00:00", "tool": "issue_refund", "status": "REFUND", "order_id": "ORD-106173", "refund_inr": 135.0}
+{"timestamp": "2026-11-03T17:54:20.294409+00:00", "tool": "escalate_to_human", "status": "ESCALATE", "reason": "refund exceeds INR 1000 approval threshold", "order_id": "ORD-100145"}
