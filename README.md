@@ -639,9 +639,3 @@ The **Instamart Customer Intelligence & Support Copilot** demonstrates a complet
 - **Part D** retrieves policy passages, checks order records, demonstrates safe escalation and denial paths, and retains checkpoints for recovery.
 
 The project’s central design principle is to combine automation with explicit safeguards: when the data is insufficient to justify an action, the copilot should explain the limitation and refer the case for human review rather than inventing missing facts or issuing an unsupported refund.
-
----
-
-## Academic project note
-
-This repository is a student capstone prototype for demonstration and evaluation. It is not an official Instamart product, does not connect to Instamart systems, and must not be used to make real customer, refund, or operational decisions.
