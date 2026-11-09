@@ -1,0 +1,8 @@
+{
+  "scenario_id": "TIME_DEMO",
+  "user_message": "Please refund late order ORD-000002",
+  "steps": [],
+  "tokens_used": 0,
+  "llm_calls": 0,
+  "order_id": "ORD-000002"
+}

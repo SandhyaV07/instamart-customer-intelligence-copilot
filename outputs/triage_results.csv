@@ -1,0 +1,165 @@
+ticket_id,customer_id,status,category,segment_name,priority,route,tokens_used
+T0001,C0168,classified_json,fraud,Regular,HIGH,security_team,392
+T0002,C0436,classified_json,delivery,Loyal,NORMAL,support_queue,43
+T0003,C0054,classified_json,technical,Regular,NORMAL,support_queue,41
+T0004,C0228,classified_json,fraud,Loyal,HIGH,security_team,42
+T0005,C0526,classified_json,billing,Loyal,NORMAL,support_queue,44
+T0006,C1130,classified_json,delivery,Regular,NORMAL,support_queue,47
+T0007,C1172,classified_json,technical,Premium,HIGH,premium_desk,41
+T0008,C0918,classified_json,fraud,Loyal,HIGH,security_team,46
+T0009,C1133,classified_json,billing,Loyal,NORMAL,support_queue,44
+T0010,C0738,classified_json,delivery,Regular,NORMAL,support_queue,43
+T0011,C0163,classified_json,technical,At Risk,NORMAL,support_queue,45
+T0012,C0793,classified_json,fraud,Premium,HIGH,security_team,46
+T0013,C0662,classified_keyword,billing,Regular,NORMAL,support_queue,49
+T0014,C1023,classified_json,delivery,Regular,NORMAL,support_queue,43
+T0015,C0418,classified_json,technical,Regular,NORMAL,support_queue,45
+T0016,C0985,classified_json,fraud,Regular,HIGH,security_team,46
+T0017,C0780,flagged_invalid_output,,Regular,NORMAL,human_review,46
+T0018,C0887,classified_json,delivery,Regular,NORMAL,support_queue,43
+T0019,C0033,classified_json,technical,At Risk,NORMAL,support_queue,41
+T0020,C1159,classified_json,fraud,Loyal,HIGH,security_team,42
+T0021,C0653,classified_json,billing,Loyal,NORMAL,support_queue,48
+T0022,C0779,classified_json,delivery,Regular,NORMAL,support_queue,47
+T0023,C0554,classified_json,technical,Premium,HIGH,premium_desk,45
+T0024,C0164,classified_json,fraud,Loyal,HIGH,security_team,42
+T0025,C0674,classified_json,billing,Regular,NORMAL,support_queue,44
+T0026,C0830,classified_keyword,delivery,Loyal,NORMAL,support_queue,52
+T0027,C0183,classified_json,technical,Regular,NORMAL,support_queue,41
+T0028,C0444,classified_json,fraud,Regular,HIGH,security_team,42
+T0029,C0743,classified_json,billing,At Risk,NORMAL,support_queue,48
+T0030,C0347,classified_json,delivery,Regular,NORMAL,support_queue,43
+T0031,C0356,classified_json,technical,At Risk,NORMAL,support_queue,45
+T0032,C0135,classified_json,fraud,Premium,HIGH,security_team,42
+T0033,C0611,classified_json,billing,Premium,HIGH,premium_desk,44
+T0034,C0145,flagged_invalid_output,,At Risk,NORMAL,human_review,49
+T0035,C1043,classified_json,technical,Loyal,NORMAL,support_queue,41
+T0036,C0208,classified_json,fraud,Premium,HIGH,security_team,50
+T0037,C0113,classified_json,billing,Regular,NORMAL,support_queue,44
+T0038,C1112,classified_json,fraud,Loyal,HIGH,security_team,392
+T0039,C0478,classified_keyword,technical,Loyal,NORMAL,support_queue,46
+T0040,C0237,classified_json,fraud,Regular,HIGH,security_team,42
+T0041,C0659,classified_json,billing,Loyal,NORMAL,support_queue,48
+T0042,C0123,skipped_empty,,Loyal,NORMAL,human_review,0
+T0043,C0495,classified_json,technical,Loyal,NORMAL,support_queue,45
+T0044,C0791,classified_json,fraud,Regular,HIGH,security_team,42
+T0045,C0576,classified_json,billing,Regular,NORMAL,support_queue,48
+T0046,C1111,classified_json,delivery,Premium,HIGH,premium_desk,47
+T0047,C0865,classified_json,technical,Loyal,NORMAL,support_queue,41
+T0048,C0779,classified_json,fraud,Regular,HIGH,security_team,42
+T0049,C0804,classified_json,billing,Premium,HIGH,premium_desk,44
+T0050,C0824,classified_json,delivery,Loyal,NORMAL,support_queue,47
+T0051,C0573,classified_json,technical,Loyal,NORMAL,support_queue,45
+T0052,C0127,flagged_invalid_output,,Premium,NORMAL,human_review,44
+T0053,C0309,classified_keyword,billing,Regular,NORMAL,support_queue,49
+T0054,C0376,classified_json,delivery,Loyal,NORMAL,support_queue,43
+T0055,C0310,classified_json,technical,Premium,HIGH,premium_desk,41
+T0056,C0338,classified_json,fraud,Loyal,HIGH,security_team,50
+T0057,C0917,classified_json,billing,Loyal,NORMAL,support_queue,48
+T0058,C1134,classified_json,delivery,Premium,HIGH,premium_desk,43
+T0059,C0541,classified_json,technical,Premium,HIGH,premium_desk,41
+T0060,C0583,classified_json,fraud,Regular,HIGH,security_team,42
+T0061,C0396,classified_json,billing,Loyal,NORMAL,support_queue,48
+T0062,C0757,classified_json,delivery,At Risk,NORMAL,support_queue,43
+T0063,C0823,classified_json,technical,At Risk,NORMAL,support_queue,41
+T0064,C0068,classified_json,fraud,Loyal,HIGH,security_team,46
+T0065,C0604,classified_json,billing,At Risk,NORMAL,support_queue,44
+T0066,C0512,classified_keyword,delivery,At Risk,NORMAL,support_queue,52
+T0067,C0530,classified_json,technical,Loyal,NORMAL,support_queue,45
+T0068,C0610,classified_json,fraud,Premium,HIGH,security_team,42
+T0069,C0167,flagged_invalid_output,,Loyal,NORMAL,human_review,46
+T0070,C0960,classified_json,delivery,Premium,HIGH,premium_desk,43
+T0071,C1081,classified_json,technical,Loyal,NORMAL,support_queue,49
+T0072,C0131,classified_json,fraud,Regular,HIGH,security_team,42
+T0073,C0997,classified_json,billing,At Risk,NORMAL,support_queue,44
+T0074,C0674,classified_json,delivery,Regular,NORMAL,support_queue,43
+T0075,C1005,classified_json,fraud,Regular,HIGH,security_team,392
+T0076,C0221,classified_json,fraud,Regular,HIGH,security_team,46
+T0077,C0225,classified_json,billing,Loyal,NORMAL,support_queue,44
+T0078,C0007,classified_json,delivery,Premium,HIGH,premium_desk,51
+T0079,C0606,classified_keyword,technical,Regular,NORMAL,support_queue,46
+T0080,C0497,classified_json,fraud,Loyal,HIGH,security_team,42
+T0081,C1138,classified_json,billing,Loyal,NORMAL,support_queue,48
+T0082,C0669,classified_json,delivery,Loyal,NORMAL,support_queue,43
+T0083,C1114,skipped_empty,,Loyal,NORMAL,human_review,0
+T0084,C0315,classified_json,fraud,At Risk,HIGH,security_team,42
+T0085,C0047,classified_json,billing,Loyal,NORMAL,support_queue,48
+T0086,C0997,classified_json,delivery,At Risk,NORMAL,support_queue,47
+T0087,C0009,flagged_invalid_output,,Regular,NORMAL,human_review,43
+T0088,C1020,classified_json,fraud,Regular,HIGH,security_team,42
+T0089,C0614,classified_json,billing,Regular,NORMAL,support_queue,48
+T0090,C0697,classified_json,delivery,Loyal,NORMAL,support_queue,43
+T0091,C0255,classified_json,technical,Loyal,NORMAL,support_queue,45
+T0092,C0323,classified_json,fraud,At Risk,HIGH,security_team,46
+T0093,C0253,classified_keyword,billing,Loyal,NORMAL,support_queue,49
+T0094,C0888,classified_json,delivery,Regular,NORMAL,support_queue,43
+T0095,C0558,classified_json,technical,Regular,NORMAL,support_queue,41
+T0096,C0122,classified_json,fraud,Loyal,HIGH,security_team,46
+T0097,C0057,classified_json,billing,Regular,NORMAL,support_queue,44
+T0098,C0863,classified_json,delivery,At Risk,NORMAL,support_queue,43
+T0099,C0804,classified_json,technical,Premium,HIGH,premium_desk,45
+T0100,C0379,classified_json,fraud,At Risk,HIGH,security_team,46
+T0101,C0422,classified_json,billing,Loyal,NORMAL,support_queue,48
+T0102,C0962,classified_json,delivery,Loyal,NORMAL,support_queue,43
+T0103,C0088,classified_json,technical,Regular,NORMAL,support_queue,41
+T0104,C1157,flagged_invalid_output,,Loyal,NORMAL,human_review,44
+T0105,C1020,classified_json,billing,Regular,NORMAL,support_queue,44
+T0106,C0160,classified_keyword,delivery,Loyal,NORMAL,support_queue,56
+T0107,C0630,classified_json,technical,Loyal,NORMAL,support_queue,41
+T0108,C0679,classified_json,fraud,Loyal,HIGH,security_team,42
+T0109,C1099,classified_json,billing,Loyal,NORMAL,support_queue,44
+T0110,C0717,classified_json,delivery,Loyal,NORMAL,support_queue,43
+T0111,C0006,classified_json,technical,Loyal,NORMAL,support_queue,49
+T0112,C0342,classified_json,fraud,At Risk,HIGH,security_team,392
+T0113,C0702,classified_json,billing,Premium,HIGH,premium_desk,48
+T0114,C0450,classified_json,delivery,Loyal,NORMAL,support_queue,43
+T0115,C0564,classified_json,technical,Premium,HIGH,premium_desk,41
+T0116,C1130,classified_json,fraud,Regular,HIGH,security_team,46
+T0117,C1125,classified_json,billing,Regular,NORMAL,support_queue,44
+T0118,C0323,classified_json,delivery,At Risk,NORMAL,support_queue,43
+T0119,C0213,classified_keyword,technical,Loyal,NORMAL,support_queue,46
+T0120,C1147,classified_json,fraud,Regular,HIGH,security_team,46
+T0121,C0655,flagged_invalid_output,,Premium,NORMAL,human_review,50
+T0122,C0711,classified_json,delivery,Regular,NORMAL,support_queue,47
+T0123,C0207,classified_json,technical,Loyal,NORMAL,support_queue,41
+T0124,C0773,skipped_empty,,Regular,NORMAL,human_review,0
+T0125,C1031,classified_json,billing,Regular,NORMAL,support_queue,44
+T0126,C0163,classified_json,delivery,At Risk,NORMAL,support_queue,47
+T0127,C0402,classified_json,technical,Regular,NORMAL,support_queue,45
+T0128,C0493,classified_json,fraud,Loyal,HIGH,security_team,42
+T0129,C0541,classified_json,billing,Premium,HIGH,premium_desk,44
+T0130,C0270,classified_json,delivery,Loyal,NORMAL,support_queue,43
+T0131,C0826,classified_json,technical,Loyal,NORMAL,support_queue,45
+T0132,C0266,classified_json,fraud,Loyal,HIGH,security_team,42
+T0133,C0325,classified_keyword,billing,Regular,NORMAL,support_queue,53
+T0134,C0663,classified_json,delivery,Loyal,NORMAL,support_queue,47
+T0135,C0145,classified_json,technical,At Risk,NORMAL,support_queue,41
+T0136,C1013,classified_json,fraud,Loyal,HIGH,security_team,46
+T0137,C0536,classified_json,billing,Regular,NORMAL,support_queue,44
+T0138,C1158,classified_json,delivery,Regular,NORMAL,support_queue,43
+T0139,C0443,flagged_invalid_output,,Loyal,NORMAL,human_review,43
+T0140,C0019,classified_json,fraud,Regular,HIGH,security_team,42
+T0141,C0426,classified_json,billing,Regular,NORMAL,support_queue,52
+T0142,C0751,classified_json,delivery,Regular,NORMAL,support_queue,43
+T0143,C0010,classified_json,technical,Regular,NORMAL,support_queue,41
+T0144,C0579,classified_json,fraud,Premium,HIGH,security_team,46
+T0145,C0936,classified_json,billing,Loyal,NORMAL,support_queue,44
+T0146,C1070,classified_keyword,delivery,Loyal,NORMAL,support_queue,52
+T0147,C0888,classified_json,technical,Regular,NORMAL,support_queue,41
+T0148,C0297,classified_json,fraud,Premium,HIGH,security_team,46
+T0149,C0845,classified_json,fraud,Regular,HIGH,security_team,392
+T0150,C0940,classified_json,delivery,Regular,NORMAL,support_queue,43
+T0151,C0494,classified_json,technical,Loyal,NORMAL,support_queue,45
+T0152,C0787,classified_json,fraud,Regular,HIGH,security_team,42
+T0153,C0595,classified_json,billing,At Risk,NORMAL,support_queue,44
+T0154,C0493,classified_json,delivery,Loyal,NORMAL,support_queue,43
+T0155,C0797,classified_json,technical,At Risk,NORMAL,support_queue,49
+T0156,C1168,flagged_invalid_output,,Loyal,NORMAL,human_review,48
+T0157,C1147,classified_json,billing,Regular,NORMAL,support_queue,44
+T0158,C0022,classified_json,delivery,Regular,NORMAL,support_queue,43
+T0159,C0339,classified_keyword,technical,Regular,NORMAL,support_queue,46
+T0160,C0998,classified_json,fraud,Premium,HIGH,security_team,42
+T0161,C0898,classified_json,billing,Regular,NORMAL,support_queue,48
+T0162,C0882,classified_json,delivery,Regular,NORMAL,support_queue,47
+T0163,C0738,classified_json,technical,Regular,NORMAL,support_queue,41
+T0164,C0515,classified_json,fraud,Loyal,HIGH,security_team,42

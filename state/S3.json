@@ -1,0 +1,31 @@
+{
+  "scenario_id": "S3",
+  "user_message": "I suspect fraud for order ORD-000004",
+  "steps": [
+    {
+      "tool": "get_order",
+      "args": {
+        "order_id": "ORD-000004"
+      },
+      "observation": {
+        "error": "NOT_FOUND",
+        "order_id": "ORD-000004"
+      }
+    },
+    {
+      "tool": "escalate_to_human",
+      "args": {
+        "reason": "suspected fraud or safety concern",
+        "order_id": "ORD-000004"
+      },
+      "observation": {
+        "status": "ESCALATE",
+        "reason": "suspected fraud or safety concern",
+        "order_id": "ORD-000004"
+      }
+    }
+  ],
+  "tokens_used": 212,
+  "llm_calls": 2,
+  "order_id": "ORD-000004"
+}

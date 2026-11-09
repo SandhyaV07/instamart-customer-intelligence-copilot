@@ -1,0 +1,4 @@
+model,best_params,accuracy,precision,recall,f1,confusion_matrix
+LogisticRegression,{'model__C': 1},0.5166666666666667,0.4819277108433735,0.35398230088495575,0.40816326530612246,"[[84, 43], [73, 40]]"
+RandomForest,"{'model__max_depth': 8, 'model__min_samples_leaf': 5}",0.5166666666666667,0.4716981132075472,0.22123893805309736,0.30120481927710846,"[[99, 28], [88, 25]]"
+OversampledLogisticRegression,training-only random oversampling,0.5416666666666666,0.512,0.5663716814159292,0.5378151260504201,"[[66, 61], [49, 64]]"

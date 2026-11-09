@@ -1,0 +1,46 @@
+{
+  "scenario_id": "S4",
+  "user_message": "Please refund cancelled order ORD-000676",
+  "steps": [
+    {
+      "tool": "get_order",
+      "args": {
+        "order_id": "ORD-000676"
+      },
+      "observation": {
+        "order_id": "ORD-000676",
+        "status": "cancelled",
+        "amount": 732.57,
+        "delivery_minutes": null
+      }
+    },
+    {
+      "tool": "search_policy",
+      "args": {
+        "query": "refund late delivery eligibility"
+      },
+      "observation": {
+        "results": [
+          {
+            "source": "delivery_policy.txt",
+            "score": 0.3447840273628711,
+            "text": "Customers can track deliveries in the app. If an order is late, check the order status and delivery time. Escalate delivery incidents that appear unsafe or involve a missing delivery partner. Customers should receive a concise status update when delivery"
+          },
+          {
+            "source": "refund_policy.txt",
+            "score": 0.31853903850572896,
+            "text": "based on the final charged amount. Refund requests should be checked against the order record before issuing a refund. Keep a record of the decision and explain the eligibility rule to the customer. Do not promise a refund before checking"
+          },
+          {
+            "source": "refund_policy.txt",
+            "score": 0.27865519959993024,
+            "text": "to the customer. Do not promise a refund before checking both status and delivery duration."
+          }
+        ]
+      }
+    }
+  ],
+  "tokens_used": 315,
+  "llm_calls": 3,
+  "order_id": "ORD-000676"
+}

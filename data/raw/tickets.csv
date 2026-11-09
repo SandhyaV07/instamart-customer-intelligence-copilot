@@ -1,0 +1,165 @@
+ticket_id,customer_id,message,true_category
+T0001,C0168,long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text,billing
+T0002,C0436,My order is late and the delivery partner has not arrived.,delivery
+T0003,C0054,The app crashes when I try to complete checkout.,technical
+T0004,C0228,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0005,C0526,I was charged twice for my recent order and need a refund.,billing
+T0006,C1130,My order is late and the delivery partner has not arrived. My phone is 9876543210.,delivery
+T0007,C1172,The app crashes when I try to complete checkout.,technical
+T0008,C0918,I do not recognize this payment and suspect fraudulent activity. Contact me at customer@example.com.,fraud
+T0009,C1133,I was charged twice for my recent order and need a refund.,billing
+T0010,C0738,My order is late and the delivery partner has not arrived.,delivery
+T0011,C0163,The app crashes when I try to complete checkout. My phone is 9876543210.,technical
+T0012,C0793,I do not recognize this payment and suspect fraudulent activity. The order is ORD-000012.,fraud
+T0013,C0662,I was charged twice for my recent order and need a refund.,billing
+T0014,C1023,My order is late and the delivery partner has not arrived.,delivery
+T0015,C0418,The app crashes when I try to complete checkout. Contact me at customer@example.com.,technical
+T0016,C0985,I do not recognize this payment and suspect fraudulent activity. My phone is 9876543210.,fraud
+T0017,C0780,I was charged twice for my recent order and need a refund.,billing
+T0018,C0887,My order is late and the delivery partner has not arrived.,delivery
+T0019,C0033,The app crashes when I try to complete checkout.,technical
+T0020,C1159,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0021,C0653,I was charged twice for my recent order and need a refund. My phone is 9876543210.,billing
+T0022,C0779,My order is late and the delivery partner has not arrived. Contact me at customer@example.com.,delivery
+T0023,C0554,The app crashes when I try to complete checkout. The order is ORD-000023.,technical
+T0024,C0164,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0025,C0674,I was charged twice for my recent order and need a refund.,billing
+T0026,C0830,My order is late and the delivery partner has not arrived. My phone is 9876543210.,delivery
+T0027,C0183,The app crashes when I try to complete checkout.,technical
+T0028,C0444,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0029,C0743,I was charged twice for my recent order and need a refund. Contact me at customer@example.com.,billing
+T0030,C0347,My order is late and the delivery partner has not arrived.,delivery
+T0031,C0356,The app crashes when I try to complete checkout. My phone is 9876543210.,technical
+T0032,C0135,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0033,C0611,I was charged twice for my recent order and need a refund.,billing
+T0034,C0145,My order is late and the delivery partner has not arrived. The order is ORD-000034.,delivery
+T0035,C1043,The app crashes when I try to complete checkout.,technical
+T0036,C0208,I do not recognize this payment and suspect fraudulent activity. Contact me at customer@example.com. My phone is 9876543210.,fraud
+T0037,C0113,I was charged twice for my recent order and need a refund.,billing
+T0038,C1112,long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text,delivery
+T0039,C0478,The app crashes when I try to complete checkout.,technical
+T0040,C0237,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0041,C0659,I was charged twice for my recent order and need a refund. My phone is 9876543210.,billing
+T0042,C0123,   ,delivery
+T0043,C0495,The app crashes when I try to complete checkout. Contact me at customer@example.com.,technical
+T0044,C0791,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0045,C0576,I was charged twice for my recent order and need a refund. The order is ORD-000045.,billing
+T0046,C1111,My order is late and the delivery partner has not arrived. My phone is 9876543210.,delivery
+T0047,C0865,The app crashes when I try to complete checkout.,technical
+T0048,C0779,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0049,C0804,I was charged twice for my recent order and need a refund.,billing
+T0050,C0824,My order is late and the delivery partner has not arrived. Contact me at customer@example.com.,delivery
+T0051,C0573,The app crashes when I try to complete checkout. My phone is 9876543210.,technical
+T0052,C0127,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0053,C0309,I was charged twice for my recent order and need a refund.,billing
+T0054,C0376,My order is late and the delivery partner has not arrived.,delivery
+T0055,C0310,The app crashes when I try to complete checkout.,technical
+T0056,C0338,I do not recognize this payment and suspect fraudulent activity. My phone is 9876543210. The order is ORD-000056.,fraud
+T0057,C0917,I was charged twice for my recent order and need a refund. Contact me at customer@example.com.,billing
+T0058,C1134,My order is late and the delivery partner has not arrived.,delivery
+T0059,C0541,The app crashes when I try to complete checkout.,technical
+T0060,C0583,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0061,C0396,I was charged twice for my recent order and need a refund. My phone is 9876543210.,billing
+T0062,C0757,My order is late and the delivery partner has not arrived.,delivery
+T0063,C0823,The app crashes when I try to complete checkout.,technical
+T0064,C0068,I do not recognize this payment and suspect fraudulent activity. Contact me at customer@example.com.,fraud
+T0065,C0604,I was charged twice for my recent order and need a refund.,billing
+T0066,C0512,My order is late and the delivery partner has not arrived. My phone is 9876543210.,delivery
+T0067,C0530,The app crashes when I try to complete checkout. The order is ORD-000067.,technical
+T0068,C0610,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0069,C0167,I was charged twice for my recent order and need a refund.,billing
+T0070,C0960,My order is late and the delivery partner has not arrived.,delivery
+T0071,C1081,The app crashes when I try to complete checkout. Contact me at customer@example.com. My phone is 9876543210.,technical
+T0072,C0131,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0073,C0997,I was charged twice for my recent order and need a refund.,billing
+T0074,C0674,My order is late and the delivery partner has not arrived.,delivery
+T0075,C1005,long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text,technical
+T0076,C0221,I do not recognize this payment and suspect fraudulent activity. My phone is 9876543210.,fraud
+T0077,C0225,I was charged twice for my recent order and need a refund.,billing
+T0078,C0007,My order is late and the delivery partner has not arrived. Contact me at customer@example.com. The order is ORD-000078.,delivery
+T0079,C0606,The app crashes when I try to complete checkout.,technical
+T0080,C0497,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0081,C1138,I was charged twice for my recent order and need a refund. My phone is 9876543210.,billing
+T0082,C0669,My order is late and the delivery partner has not arrived.,delivery
+T0083,C1114,   ,technical
+T0084,C0315,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0085,C0047,I was charged twice for my recent order and need a refund. Contact me at customer@example.com.,billing
+T0086,C0997,My order is late and the delivery partner has not arrived. My phone is 9876543210.,delivery
+T0087,C0009,The app crashes when I try to complete checkout.,technical
+T0088,C1020,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0089,C0614,I was charged twice for my recent order and need a refund. The order is ORD-000089.,billing
+T0090,C0697,My order is late and the delivery partner has not arrived.,delivery
+T0091,C0255,The app crashes when I try to complete checkout. My phone is 9876543210.,technical
+T0092,C0323,I do not recognize this payment and suspect fraudulent activity. Contact me at customer@example.com.,fraud
+T0093,C0253,I was charged twice for my recent order and need a refund.,billing
+T0094,C0888,My order is late and the delivery partner has not arrived.,delivery
+T0095,C0558,The app crashes when I try to complete checkout.,technical
+T0096,C0122,I do not recognize this payment and suspect fraudulent activity. My phone is 9876543210.,fraud
+T0097,C0057,I was charged twice for my recent order and need a refund.,billing
+T0098,C0863,My order is late and the delivery partner has not arrived.,delivery
+T0099,C0804,The app crashes when I try to complete checkout. Contact me at customer@example.com.,technical
+T0100,C0379,I do not recognize this payment and suspect fraudulent activity. The order is ORD-000100.,fraud
+T0101,C0422,I was charged twice for my recent order and need a refund. My phone is 9876543210.,billing
+T0102,C0962,My order is late and the delivery partner has not arrived.,delivery
+T0103,C0088,The app crashes when I try to complete checkout.,technical
+T0104,C1157,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0105,C1020,I was charged twice for my recent order and need a refund.,billing
+T0106,C0160,My order is late and the delivery partner has not arrived. Contact me at customer@example.com. My phone is 9876543210.,delivery
+T0107,C0630,The app crashes when I try to complete checkout.,technical
+T0108,C0679,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0109,C1099,I was charged twice for my recent order and need a refund.,billing
+T0110,C0717,My order is late and the delivery partner has not arrived.,delivery
+T0111,C0006,The app crashes when I try to complete checkout. My phone is 9876543210. The order is ORD-000111.,technical
+T0112,C0342,long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text,fraud
+T0113,C0702,I was charged twice for my recent order and need a refund. Contact me at customer@example.com.,billing
+T0114,C0450,My order is late and the delivery partner has not arrived.,delivery
+T0115,C0564,The app crashes when I try to complete checkout.,technical
+T0116,C1130,I do not recognize this payment and suspect fraudulent activity. My phone is 9876543210.,fraud
+T0117,C1125,I was charged twice for my recent order and need a refund.,billing
+T0118,C0323,My order is late and the delivery partner has not arrived.,delivery
+T0119,C0213,The app crashes when I try to complete checkout.,technical
+T0120,C1147,I do not recognize this payment and suspect fraudulent activity. Contact me at customer@example.com.,fraud
+T0121,C0655,I was charged twice for my recent order and need a refund. My phone is 9876543210.,billing
+T0122,C0711,My order is late and the delivery partner has not arrived. The order is ORD-000122.,delivery
+T0123,C0207,The app crashes when I try to complete checkout.,technical
+T0124,C0773,   ,fraud
+T0125,C1031,I was charged twice for my recent order and need a refund.,billing
+T0126,C0163,My order is late and the delivery partner has not arrived. My phone is 9876543210.,delivery
+T0127,C0402,The app crashes when I try to complete checkout. Contact me at customer@example.com.,technical
+T0128,C0493,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0129,C0541,I was charged twice for my recent order and need a refund.,billing
+T0130,C0270,My order is late and the delivery partner has not arrived.,delivery
+T0131,C0826,The app crashes when I try to complete checkout. My phone is 9876543210.,technical
+T0132,C0266,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0133,C0325,I was charged twice for my recent order and need a refund. The order is ORD-000133.,billing
+T0134,C0663,My order is late and the delivery partner has not arrived. Contact me at customer@example.com.,delivery
+T0135,C0145,The app crashes when I try to complete checkout.,technical
+T0136,C1013,I do not recognize this payment and suspect fraudulent activity. My phone is 9876543210.,fraud
+T0137,C0536,I was charged twice for my recent order and need a refund.,billing
+T0138,C1158,My order is late and the delivery partner has not arrived.,delivery
+T0139,C0443,The app crashes when I try to complete checkout.,technical
+T0140,C0019,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0141,C0426,I was charged twice for my recent order and need a refund. Contact me at customer@example.com. My phone is 9876543210.,billing
+T0142,C0751,My order is late and the delivery partner has not arrived.,delivery
+T0143,C0010,The app crashes when I try to complete checkout.,technical
+T0144,C0579,I do not recognize this payment and suspect fraudulent activity. The order is ORD-000144.,fraud
+T0145,C0936,I was charged twice for my recent order and need a refund.,billing
+T0146,C1070,My order is late and the delivery partner has not arrived. My phone is 9876543210.,delivery
+T0147,C0888,The app crashes when I try to complete checkout.,technical
+T0148,C0297,I do not recognize this payment and suspect fraudulent activity. Contact me at customer@example.com.,fraud
+T0149,C0845,long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text long ticket text,billing
+T0150,C0940,My order is late and the delivery partner has not arrived.,delivery
+T0151,C0494,The app crashes when I try to complete checkout. My phone is 9876543210.,technical
+T0152,C0787,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0153,C0595,I was charged twice for my recent order and need a refund.,billing
+T0154,C0493,My order is late and the delivery partner has not arrived.,delivery
+T0155,C0797,The app crashes when I try to complete checkout. Contact me at customer@example.com. The order is ORD-000155.,technical
+T0156,C1168,I do not recognize this payment and suspect fraudulent activity. My phone is 9876543210.,fraud
+T0157,C1147,I was charged twice for my recent order and need a refund.,billing
+T0158,C0022,My order is late and the delivery partner has not arrived.,delivery
+T0159,C0339,The app crashes when I try to complete checkout.,technical
+T0160,C0998,I do not recognize this payment and suspect fraudulent activity.,fraud
+T0161,C0898,I was charged twice for my recent order and need a refund. My phone is 9876543210.,billing
+T0162,C0882,My order is late and the delivery partner has not arrived. Contact me at customer@example.com.,delivery
+T0163,C0738,The app crashes when I try to complete checkout.,technical
+T0164,C0515,I do not recognize this payment and suspect fraudulent activity.,fraud

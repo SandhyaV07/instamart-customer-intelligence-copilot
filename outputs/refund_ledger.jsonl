@@ -1,0 +1,4 @@
+{"timestamp": "2026-10-27T17:03:15.517610+00:00", "tool": "issue_refund", "status": "REFUND", "order_id": "ORD-000663", "refund_inr": 2141.38}
+{"timestamp": "2026-10-27T17:03:15.521188+00:00", "tool": "issue_refund", "status": "REFUND", "order_id": "ORD-000673", "refund_inr": 3968.72}
+{"timestamp": "2026-10-27T17:03:15.522527+00:00", "tool": "escalate_to_human", "status": "ESCALATE", "reason": "suspected fraud or safety concern", "order_id": "ORD-000004"}
+{"timestamp": "2026-11-05T06:59:52.927235+00:00", "tool": "escalate_to_human", "status": "ESCALATE", "reason": "suspected fraud or safety concern", "order_id": "ORD-000004"}
